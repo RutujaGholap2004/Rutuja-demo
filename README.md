@@ -1,4 +1,2 @@
 # Rutuja-demo
-author - 
-<br>
-Rutuja Gholap
+author - Rutuja Gholap
